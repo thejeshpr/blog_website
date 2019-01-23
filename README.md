@@ -1,2 +1,2 @@
-# blog_website
+# Blog Website
 Coding Blog
