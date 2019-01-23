@@ -1,0 +1,21 @@
+Base:
+    - created_date
+    - modified_date
+    - active
+
+
+Article
+    - title
+    - pub-date
+    - active
+    - author    
+    - tags
+
+Author:
+    - name
+    - active    
+
+Category:
+    - Name
+    - created_by
+
